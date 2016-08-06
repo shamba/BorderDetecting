@@ -1,4 +1,4 @@
 this is example.txt file
-Modified remotely on master branch
+Deleted locally on branch Feature
 Modified locally on Feature branch computer
 
