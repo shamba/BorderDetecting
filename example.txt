@@ -2,3 +2,4 @@ this is example.txt file
 Deleted locally on branch Feature
 Modified locally on Feature branch computer
 Added line
+New line
